@@ -61,13 +61,13 @@ streamlit run app.py
 
 🔗 **Live Demo:** https://agrigaurd-ai-crop-disease-detection.streamlit.app/
 
-📂 **GitHub Repository:** https://github.com/Rohitpawale23/AgriGaurd-AI-Crop-Disease-Detection
+
 
 ---
 
 ## 📢 Connect With Me
-👤 **Developer:** Rohit Pawale  
-🔗 **Follow Me:** https://www.linkedin.com/in/rohit-pawale-817435255/
+👤 **Developer:** Rohit Prajapati 
+
 
 ---
 
