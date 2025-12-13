@@ -118,7 +118,7 @@ elif app_mode == "About":
         - **Accuracy**: 98.7% validation accuracy
         - **Inference**: GPU-accelerated predictions
         """)
-    st.write("© 2025 AgriGuard AI | Developed with ❤️‍🔥 by Rohit in Pune")    
+    st.write("© 2025 AgriGuard AI | Developed with ❤️‍🔥 by Rohit ")    
         
 
 # Prediction Page
