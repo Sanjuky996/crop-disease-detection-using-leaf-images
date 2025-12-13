@@ -33,7 +33,8 @@ AgriGuard AI is an AI-powered crop disease detection system designed to help far
 ---
 
 ## 📂 Dataset Information
-- **Source:** [Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) 🌱  
+- **Source:** [Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) 🌱
+- **keras model:** (https://github.com/Sanjuky996/crop-disease-detection-using-leaf-images/releases/tag/v1.0)
 - **Images:** 87,000+ labeled plant leaf images  
 - **Classes:** 38 plant disease categories  
 - **Augmentation:** Rotation, flipping, zooming for better model generalization  
