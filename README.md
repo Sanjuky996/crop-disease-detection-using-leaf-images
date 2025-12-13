@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 📎 Demo & Deployment
 
-🔗 **Live Demo:** https://agrigaurd-ai-crop-disease-detection.streamlit.app/
+🔗 **Live Demo:** https://crop-disease-detection-using-leaf-images.streamlit.app
 
 
 
