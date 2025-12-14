@@ -1,13 +1,13 @@
-# 🌿 AgriGuard AI - Crop Disease Detection
+# 🌿 AgriGuard  - Crop Disease Detection
 
-Check out Here --> https://agrigaurd-ai-crop-disease-detection.streamlit.app/
+Check out Here -->[ https://agrigaurd-ai-crop-disease-detection.streamlit.app/](https://crop-disease-detection-using-leaf-images.streamlit.app/]
 ---
-AgriGuard AI is an AI-powered crop disease detection system designed to help farmers quickly identify plant diseases through leaf image analysis. Using **Deep Learning & Computer Vision**, it provides accurate and real-time results, enabling early intervention to prevent crop loss. 
+AgriGuard  is an AI-powered crop disease detection system designed to help farmers quickly identify plant diseases through leaf image analysis. Using **Deep Learning & Computer Vision**, it provides accurate and real-time results, enabling early intervention to prevent crop loss. 
 
 ---
 
 ## 🚀 Features
-✅ AI-powered plant disease detection  
+✅  plant disease detection  
 ✅ Mobile-friendly interface for easy access 📱  
 ✅ Real-time disease diagnosis with **95% accuracy**  
 ✅ Supports **38+ plant varieties**  
@@ -39,22 +39,7 @@ AgriGuard AI is an AI-powered crop disease detection system designed to help far
 - **Classes:** 38 plant disease categories  
 - **Augmentation:** Rotation, flipping, zooming for better model generalization  
 
----
 
-## 🚀 Installation Guide
-### 1️⃣ Clone the Repository
-```bash
-  git clone https://github.com/yourusername/AgriGuard-AI.git
-  cd AgriGuard-AI
-```
-
-### 2️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the App
-```bash
 streamlit run app.py
 ```
 
