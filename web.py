@@ -47,7 +47,7 @@ st.markdown("""
 # Sidebar with Logo
 st.sidebar.image("logo3.png",  use_container_width=True, caption="AI-Powered Crop Protection")
 
-st.sidebar.title("AgriGuard AI")
+st.sidebar.title("AgriGuard ")
 app_mode = st.sidebar.radio("Navigate", ["Home", "About", "Crop Disease Recognition"], index=0)
 st.sidebar.markdown("---")
 st.sidebar.info("ℹ️ Upload plant leaf images for quick disease diagnosis")
@@ -64,8 +64,8 @@ if app_mode == "Home":
         st.image(image_path, use_container_width=True, caption="Healthy Crops, Better Harvest")
     
     st.markdown("""
-    ### Welcome to Agricultural AI Guardian!
-    **Our mission**: Empower farmers with instant plant disease detection using advanced AI technology. 
+    ### Welcome to Agricultural Guardian!
+    **Our mission**: Empower farmers with instant plant disease detection using advanced  technology. 
     Upload a leaf image and get instant diagnosis to protect your crops effectively.
 
     🚀 **How It Works**
@@ -118,7 +118,7 @@ elif app_mode == "About":
         - **Accuracy**: 98.7% validation accuracy
         - **Inference**: GPU-accelerated predictions
         """)
-    st.write("© 2025 AgriGuard AI | Developed with ❤️‍🔥 by Rohit ")    
+    st.write("© 2025 AgriGuard  | Developed with ❤️‍🔥 by Rohit ")    
         
 
 # Prediction Page
