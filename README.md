@@ -1,6 +1,6 @@
 # 🌿 AgriGuard  - Crop Disease Detection
 
-Check out Here -->[ https://agrigaurd-ai-crop-disease-detection.streamlit.app/](https://crop-disease-detection-using-leaf-images.streamlit.app/]
+Check out Here -->(https://crop-disease-detection-using-leaf-images.streamlit.app/)
 ---
 AgriGuard  is an AI-powered crop disease detection system designed to help farmers quickly identify plant diseases through leaf image analysis. Using **Deep Learning & Computer Vision**, it provides accurate and real-time results, enabling early intervention to prevent crop loss. 
 
